@@ -1,0 +1,5 @@
+{
+  "name": "Heramb Musical Group Registration",
+  "description": "A visually appealing registration website for new members of the Heramb Musical Group (Banjo Group). It features a registration form and generates a personalized welcome message using the Gemini API.",
+  "requestFramePermissions": []
+}
